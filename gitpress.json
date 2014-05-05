@@ -15,9 +15,9 @@
                 "\\.html?$"            : "html",
                 ".*"                   : "text"                
         },
-        "title"  : "Akira's Blog",
+        "title"  : "Janice's Blog",
         "comment"  : "on",
-        "domain_alias"  : ["blog.silverna.org"],
+        "domain_alias"  : ["blog.janicehuang.org"],
         "friends"  : [
                 {
                         "name"  : "JerryQu的小站",
