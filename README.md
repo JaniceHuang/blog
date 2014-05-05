@@ -1,4 +1,4 @@
-janice
+blog
 ======
 
 this is my blog.
