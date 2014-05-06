@@ -17,7 +17,7 @@
         },
         "title"  : "Janice's Blog",
         "comment"  : "on",
-        "domain-alias"  : [ "blog.janice.org", "janice.org", "www.janice.org"],
+        "domain-alias"  : [ "blog.janicehuang.gitpress.org"],
         "friends"  : [
                 {
                         "name"  : "JerryQu的小站",
