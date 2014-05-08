@@ -1,4 +1,4 @@
 blog
 ======
 
-this is my blog.
+我的技术博客，前端妹子
