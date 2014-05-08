@@ -1,9 +1,8 @@
 {
         "docs"      : {
                 "关于我的博客": "README.md",
-                "PHP": "posts/PHP",
-                "Python": "posts/python",
-                "JavaScript": "posts/JavaScript",
+                "网页重构": "posts/htmlcss",
+                "js开发": "posts/javascript",
                 "算法": "posts/算法",
                 "其他": "posts"
         },        
